@@ -8,10 +8,12 @@
       <Unit>
         <Filename Value="KBShortcuts.lpr"/>
         <IsPartOfProject Value="True"/>
-        <EditorIndex Value="-1"/>
-        <TopLine Value="27"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="26"/>
         <CursorPos X="20" Y="39"/>
         <UsageCount Value="68"/>
+        <Loaded Value="True"/>
       </Unit>
       <Unit>
         <Filename Value="wnd\wndss.pas"/>
@@ -20,9 +22,8 @@
         <HasResources Value="True"/>
         <ResourceBaseClass Value="Form"/>
         <UnitName Value="wndSS"/>
-        <IsVisibleTab Value="True"/>
-        <TopLine Value="31"/>
-        <CursorPos X="23" Y="52"/>
+        <TopLine Value="34"/>
+        <CursorPos X="10" Y="52"/>
         <UsageCount Value="63"/>
         <Loaded Value="True"/>
         <LoadedDesigner Value="True"/>
@@ -34,7 +35,7 @@
         <HasResources Value="True"/>
         <ResourceBaseClass Value="Form"/>
         <UnitName Value="wndCfg"/>
-        <EditorIndex Value="1"/>
+        <EditorIndex Value="3"/>
         <TopLine Value="16"/>
         <CursorPos X="10" Y="64"/>
         <UsageCount Value="63"/>
@@ -91,8 +92,17 @@
         <EditorIndex Value="-1"/>
         <UsageCount Value="18"/>
       </Unit>
+      <Unit>
+        <Filename Value="C:\lazarus\fpc\3.2.2\source\rtl\objpas\types.pp"/>
+        <UnitName Value="Types"/>
+        <EditorIndex Value="2"/>
+        <TopLine Value="412"/>
+        <CursorPos X="10" Y="431"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit>
     </Units>
-    <JumpHistory HistoryIndex="13">
+    <JumpHistory HistoryIndex="24">
       <Position>
         <Filename Value="wnd\wndss.pas"/>
         <Caret Line="28" Column="22" TopLine="8"/>
@@ -148,6 +158,50 @@
       <Position>
         <Filename Value="wnd\wndss.pas"/>
         <Caret Line="46" Column="45" TopLine="33"/>
+      </Position>
+      <Position>
+        <Filename Value="wnd\wndss.pas"/>
+        <Caret Line="52" Column="23" TopLine="34"/>
+      </Position>
+      <Position>
+        <Filename Value="C:\lazarus\fpc\3.2.2\source\rtl\objpas\types.pp"/>
+        <Caret Line="431" Column="10" TopLine="412"/>
+      </Position>
+      <Position>
+        <Filename Value="wnd\wndss.pas"/>
+        <Caret Line="52" Column="23" TopLine="34"/>
+      </Position>
+      <Position>
+        <Filename Value="C:\lazarus\fpc\3.2.2\source\rtl\objpas\types.pp"/>
+        <Caret Line="431" Column="10" TopLine="412"/>
+      </Position>
+      <Position>
+        <Filename Value="wnd\wndss.pas"/>
+        <Caret Line="52" Column="23" TopLine="34"/>
+      </Position>
+      <Position>
+        <Filename Value="C:\lazarus\fpc\3.2.2\source\rtl\objpas\types.pp"/>
+        <Caret Line="431" Column="10" TopLine="412"/>
+      </Position>
+      <Position>
+        <Filename Value="wnd\wndss.pas"/>
+        <Caret Line="52" Column="23" TopLine="34"/>
+      </Position>
+      <Position>
+        <Filename Value="C:\lazarus\fpc\3.2.2\source\rtl\objpas\types.pp"/>
+        <Caret Line="431" Column="10" TopLine="412"/>
+      </Position>
+      <Position>
+        <Filename Value="wnd\wndss.pas"/>
+        <Caret Line="48" TopLine="34"/>
+      </Position>
+      <Position>
+        <Filename Value="C:\lazarus\fpc\3.2.2\source\rtl\objpas\types.pp"/>
+        <Caret Line="431" Column="10" TopLine="412"/>
+      </Position>
+      <Position>
+        <Filename Value="wnd\wndss.pas"/>
+        <Caret Line="52" Column="23" TopLine="34"/>
       </Position>
     </JumpHistory>
     <RunParams>
