@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="KBShortcuts.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="27"/>
+        <CursorPos X="20" Y="39"/>
+        <UsageCount Value="68"/>
+      </Unit>
+      <Unit>
+        <Filename Value="wnd\wndss.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmSS"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="wndSS"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="31"/>
+        <CursorPos X="23" Y="52"/>
+        <UsageCount Value="63"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="wnd\wndcfg.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmCfg"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="wndCfg"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="16"/>
+        <CursorPos X="10" Y="64"/>
+        <UsageCount Value="63"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="lib\libData.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="21"/>
+      </Unit>
+      <Unit>
+        <Filename Value="units\libData.pas"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="25" Y="87"/>
+        <UsageCount Value="53"/>
+      </Unit>
+      <Unit>
+        <Filename Value="frmMain.pas"/>
+        <ComponentName Value="frmSS"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos Y="34"/>
+        <UsageCount Value="21"/>
+      </Unit>
+      <Unit>
+        <Filename Value="frmcfg.pas"/>
+        <ComponentName Value="Form1"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="frmCfg"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="20"/>
+      </Unit>
+      <Unit>
+        <Filename Value="wnd\wndCfg.lfm"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="17"/>
+        <DefaultSyntaxHighlighter Value="LFM"/>
+      </Unit>
+      <Unit>
+        <Filename Value="wnd\wndSS.lfm"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="17"/>
+        <DefaultSyntaxHighlighter Value="LFM"/>
+      </Unit>
+      <Unit>
+        <Filename Value="data\libshortcuts.pas"/>
+        <UnitName Value="libShortcuts"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="18"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="13">
+      <Position>
+        <Filename Value="wnd\wndss.pas"/>
+        <Caret Line="28" Column="22" TopLine="8"/>
+      </Position>
+      <Position>
+        <Filename Value="wnd\wndss.pas"/>
+        <Caret Line="62" Column="43" TopLine="41"/>
+      </Position>
+      <Position>
+        <Filename Value="wnd\wndss.pas"/>
+        <Caret Line="111" Column="4" TopLine="76"/>
+      </Position>
+      <Position>
+        <Filename Value="wnd\wndss.pas"/>
+        <Caret Line="77" Column="33" TopLine="46"/>
+      </Position>
+      <Position>
+        <Filename Value="wnd\wndcfg.pas"/>
+        <Caret Line="28" Column="21" TopLine="13"/>
+      </Position>
+      <Position>
+        <Filename Value="wnd\wndcfg.pas"/>
+        <Caret Line="60" Column="79" TopLine="33"/>
+      </Position>
+      <Position>
+        <Filename Value="wnd\wndcfg.pas"/>
+        <Caret Line="63" Column="4" TopLine="38"/>
+      </Position>
+      <Position>
+        <Filename Value="wnd\wndss.pas"/>
+        <Caret Line="58" Column="29" TopLine="38"/>
+      </Position>
+      <Position>
+        <Filename Value="wnd\wndss.pas"/>
+        <Caret Line="123" Column="3" TopLine="88"/>
+      </Position>
+      <Position>
+        <Filename Value="wnd\wndcfg.pas"/>
+        <Caret Line="69" Column="62" TopLine="44"/>
+      </Position>
+      <Position>
+        <Filename Value="wnd\wndcfg.pas"/>
+        <Caret Line="64" Column="10" TopLine="61"/>
+      </Position>
+      <Position>
+        <Filename Value="wnd\wndss.pas"/>
+        <Caret Line="49" Column="27" TopLine="24"/>
+      </Position>
+      <Position>
+        <Filename Value="wnd\wndss.pas"/>
+        <Caret Line="123" Column="57" TopLine="96"/>
+      </Position>
+      <Position>
+        <Filename Value="wnd\wndss.pas"/>
+        <Caret Line="46" Column="45" TopLine="33"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+  <Debugging>
+    <Watches>
+      <Item>
+        <Expression Value="&apos;Excel: Ctrl+F5&apos;#13#10&apos;Restores window size&apos;"/>
+      </Item>
+    </Watches>
+  </Debugging>
+</CONFIG>

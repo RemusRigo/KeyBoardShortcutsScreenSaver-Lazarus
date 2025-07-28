@@ -1,0 +1,49 @@
+object frmCfg: TfrmCfg
+  Left = 325
+  Height = 265
+  Top = 250
+  Width = 522
+  Caption = 'KB Shortcuts Screensaver: Options'
+  ClientHeight = 265
+  ClientWidth = 522
+  OnCreate = FormCreate
+  object btnOk: TButton
+    Left = 432
+    Height = 25
+    Top = 232
+    Width = 75
+    Caption = 'Ok'
+    ModalResult = 1
+    TabOrder = 0
+    OnClick = btnOkClick
+  end
+  object chkGrpCategory: TCheckGroup
+    Left = 8
+    Height = 96
+    Top = 8
+    Width = 105
+    AutoFill = True
+    Caption = 'Category'
+    ChildSizing.LeftRightSpacing = 6
+    ChildSizing.TopBottomSpacing = 6
+    ChildSizing.EnlargeHorizontal = crsHomogenousChildResize
+    ChildSizing.EnlargeVertical = crsHomogenousChildResize
+    ChildSizing.ShrinkHorizontal = crsScaleChilds
+    ChildSizing.ShrinkVertical = crsScaleChilds
+    ChildSizing.Layout = cclLeftToRightThenTopToBottom
+    ChildSizing.ControlsPerLine = 1
+    ClientHeight = 76
+    ClientWidth = 101
+    Items.Strings = (
+      'Windows'
+      'Excel'
+      'Word'
+      'Browser'
+    )
+    TabOrder = 1
+    OnClick = chkGrpCategoryClick
+    Data = {
+      0400000002020202
+    }
+  end
+end
